@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2ccaed-69d2-4037-a9bd-41048ba4c748" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Api_filmes/JsonParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api_filmes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
