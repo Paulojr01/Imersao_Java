@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2ccaed-69d2-4037-a9bd-41048ba4c748" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Criador_De_Figurinhas/GeradorDeFigurinhas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api_filmes/GeradorDeFigurinhas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_filmes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Criador_De_Figurinhas/GeradorDeFigurinhas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/GeradorDeFigurinhas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/GeradorDeFigurinhas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/GeradorDeFigurinhas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Criador_De_Figurinhas/GeradorDeFigurinhas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saida/figurinha.png" beforeDir="false" afterPath="$PROJECT_DIR$/nomeArquivo/figurinha.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
