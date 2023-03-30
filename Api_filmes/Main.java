@@ -22,12 +22,12 @@ public class Main {
         String body = response.body();
 
         var parser = new JsonParser();
-        List<Map<String, String>> listaDeFilmes = parser.parse(body);
+        List<Map<String, String>> listaDeConteudos = parser.parse(body);
 
-        for(Map<String, String> filme : listaDeFilmes){
+        for(Map<String, String> conteudo : listaDeConteudos){
 
-            String urlImagem = filme.get("url");
-            String titulo = filme.get("title");
+            String urlImagem = conteudo.get("url");
+            String titulo = conteudo.get("title");
             InputStream inputStream = new URL(urlImagem).openStream();
             String nomeArquivo = "saida/" + titulo + ".png";
 
