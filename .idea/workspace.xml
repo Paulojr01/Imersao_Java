@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b2ccaed-69d2-4037-a9bd-41048ba4c748" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Api_filmes/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDaNasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDoIMDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api_filmes/ClienteHttp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/ClienteHttp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api_filmes/JsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/JsonParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api_filmes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ClienteHttp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ClienteHttp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/saida/Find the Man in the Moon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/saida/M51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/saida/Satellites Behind Pinnacles.png" beforeDir="false" />
-    </list>
+    <list default="true" id="4b2ccaed-69d2-4037-a9bd-41048ba4c748" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +19,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c8f614fa-c4d3-42eb-b280-0924f7aac723" />
+        <option name="url" value="https://github.com/Paulojr01/Imersao_Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
