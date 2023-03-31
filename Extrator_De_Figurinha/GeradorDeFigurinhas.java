@@ -1,4 +1,4 @@
-package Api_filmes;
+package Extrator_De_Figurinha;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

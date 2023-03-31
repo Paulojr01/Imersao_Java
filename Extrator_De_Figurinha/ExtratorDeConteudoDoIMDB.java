@@ -1,4 +1,4 @@
-package Api_filmes;
+package Extrator_De_Figurinha;
 
 import java.util.ArrayList;
 import java.util.List;

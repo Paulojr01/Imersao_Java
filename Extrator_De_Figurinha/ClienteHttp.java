@@ -1,4 +1,4 @@
-package Api_filmes;
+package Extrator_De_Figurinha;
 
 import java.io.IOException;
 import java.net.URI;

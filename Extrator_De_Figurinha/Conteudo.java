@@ -1,4 +1,4 @@
-package Api_filmes;
+package Extrator_De_Figurinha;
 
 public class Conteudo {
    private final String titulo;
