@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b2ccaed-69d2-4037-a9bd-41048ba4c748" name="Changes" comment="" />
+    <list default="true" id="4b2ccaed-69d2-4037-a9bd-41048ba4c748" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Api_filmes/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDaNasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDoIMDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_filmes/ClienteHttp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/ClienteHttp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_filmes/JsonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/JsonParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_filmes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ClienteHttp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ClienteHttp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/saida/Find the Man in the Moon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/saida/M51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/saida/Satellites Behind Pinnacles.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

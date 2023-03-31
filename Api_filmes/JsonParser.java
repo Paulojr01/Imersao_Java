@@ -41,7 +41,6 @@ public  class JsonParser {
         return dados;
 
     }
-    //min 30
 }
 
 
