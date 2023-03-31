@@ -13,7 +13,7 @@ public class Main {
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
 
-        ExtratorDeConteudoDaNasa extrator = new ExtratorDeConteudoDaNasa();
+        ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
         List<Conteudo> conteudos = extrator.extraiConteudos(json);
 
 
