@@ -18,7 +18,7 @@ public class Main {
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
 
-        ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
+        ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
         List<Conteudo> conteudos = extrator.extraiConteudos(json);
 
 
