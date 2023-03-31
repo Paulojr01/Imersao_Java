@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2ccaed-69d2-4037-a9bd-41048ba4c748" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDaNasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDaNasa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDoIMDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/ExtratorDeConteudoDoIMDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_filmes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api_filmes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ExtratorDeConteudoDaNasa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ExtratorDeConteudoDaNasa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ExtratorDeConteudoDoIMDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/ExtratorDeConteudoDoIMDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Imersao_Java/Api_filmes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
